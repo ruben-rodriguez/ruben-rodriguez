@@ -1,16 +1,15 @@
-### Hi there 👋
+- Hi 👋, I'm Ruben, a geek samurai passionate about technology!
 
-<!--
-**ruben-rodriguez/ruben-rodriguez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 😄 Pronouns: he/him/his
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working in **DevOps and Cloud Infrastructure**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👯 I’m looking to collaborate on **any project that I can contribute to!**
+
+- 👨‍💻 Some of my projects are available at [https://github.com/](https://github.com/ruben-rodriguez)
+
+- 📝 I regulary write articles on [https://ruben-rodriguez.github.io/](https://ruben-rodriguez.github.io/)
+
+- 📫 How to reach me **aki_yoshi@outlook.com**
+
+![Ruben's github stats](https://github-readme-stats.vercel.app/api?username=ruben-rodriguez&theme=chartreuse-dark&show_icons=true)
