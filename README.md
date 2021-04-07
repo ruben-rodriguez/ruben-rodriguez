@@ -6,9 +6,9 @@
 
 - 👯 I’m looking to collaborate on **any project that I can contribute to!**
 
-- 👨‍💻 Some of my projects are available at [https://github.com/](https://github.com/ruben-rodriguez)
+- 👨‍💻 Some of my projects are available at [GitHub](https://github.com/ruben-rodriguez)
 
-- 📝 I regulary write articles on [https://ruben-rodriguez.github.io/](https://ruben-rodriguez.github.io/)
+- 📝 I regulary write articles on [tech-notes.akiyosen.net](https://tech-notes.akiyosen.net/)
 
 - 📫 How to reach me **aki_yoshi@outlook.com**
 
