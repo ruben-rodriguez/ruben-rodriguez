@@ -2,7 +2,7 @@
 
 - 😄 Pronouns: he/him/his
 
-- 🔭 I’m currently working in **DevOps and Cloud Infrastructure**
+- 🔭 I’m currently working as a **DevOps & Cloud Infrastructure** engineer.
 
 - 👯 I’m looking to collaborate on **any project that I can contribute to!**
 
