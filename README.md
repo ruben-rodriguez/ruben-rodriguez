@@ -1,15 +1,52 @@
-- Hi 👋, I'm Ruben, a geek samurai passionate about technology!
+![hello](https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif)
 
-- 😄 Pronouns: he/him/his
+## 👉 Ruben Rodriguez
 
-- 🔭 I’m currently working as a **Cloud Infrastructure** engineer.
+Hi 👋, I'm Ruben, a geek samurai passionate about technology!
 
-- 👯 I’m looking to collaborate on **any project that I can contribute to!**
+😄 Pronouns: he/him/his
 
-- 👨‍💻 Some of my projects are available at [GitHub](https://github.com/ruben-rodriguez)
+🔭 I’m currently working as a **Cloud Infrastructure** engineer.
 
-- 📝 I regulary write articles on [tech-notes.akiyosen.net](https://tech-notes.akiyosen.net/)
+👯 I’m looking to collaborate on **any project that I can contribute to!**
 
-- 📫 How to reach me **aki_yoshi@outlook.com**
+👨‍💻 Some of my projects are available at [GitHub](https://github.com/ruben-rodriguez)
 
-![Ruben's github stats](https://github-readme-stats.vercel.app/api?username=ruben-rodriguez&theme=chartreuse-dark&show_icons=true)
+📝 I occasionally write articles on [tech-notes.akiyosen.net](https://tech-notes.akiyosen.net/)
+
+📫 How to reach me **aki_yoshi@outlook.com**
+
+## 💻 Technology Stack
+
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
+
+##
+
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
+
+## 
+
+![Docker](https://img.shields.io/badge/docker-0db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/terraform-5835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/ansible-1A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
+
+##
+
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Oracle Cloud Infrastructure](https://img.shields.io/badge/Oracle_Cloud_Infrastructure-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+
+
+## ⚡ GitHub Stats
+
+![Ruben's github stats](https://github-readme-stats.vercel.app/api?username=ruben-rodriguez&theme=synthwave&show_icons=true)
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=ruben-rodriguez)
