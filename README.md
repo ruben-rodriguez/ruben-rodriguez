@@ -14,7 +14,7 @@ Hi 👋, I'm Ruben, a geek samurai passionate about technology!
 
 📝 I occasionally write articles on [tech-notes.akiyosen.net](https://tech-notes.akiyosen.net/)
 
-📫 How to reach me **aki_yoshi@outlook.com**
+📫 How to reach me **rubenrc at pm.me**
 
 ## 💻 Technology Stack
 
