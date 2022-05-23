@@ -12,7 +12,7 @@ Hi 👋, I'm Ruben, a geek samurai passionate about technology!
 
 👨‍💻 Some of my projects are available at [GitHub](https://github.com/ruben-rodriguez)
 
-📝 I occasionally write articles on [tech-notes.akiyosen.net](https://tech-notes.akiyosen.net/)
+📝 I occasionally write articles on [ruben-rodriguez.github.io](https://ruben-rodriguez.github.io/)
 
 📫 How to reach me **rubenrc at pm.me**
 
