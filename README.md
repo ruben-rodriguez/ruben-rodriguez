@@ -51,4 +51,4 @@ Hi 👋, I'm Ruben, a geek samurai passionate about technology!
 
 ![Ruben's github stats](https://github-readme-stats.vercel.app/api?username=ruben-rodriguez&theme=synthwave&show_icons=true)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=ruben-rodriguez.ruben-rodriguez)
+![](https://komarev.com/ghpvc/?username=ruben-rodriguez)
